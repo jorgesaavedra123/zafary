@@ -1,0 +1,30 @@
+.center {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.rounded_input {
+    border-radius: 25px;
+    border: 2px solid hsla(147, 100%, 51%, 0.176);
+    padding: 25px;
+}
+
+.rounded_btn {
+    background-color: #63CCAE;
+    ;
+    border-radius: 25px;
+    border: 2px solid hsla(147, 100%, 51%, 0.176);
+    padding: 15px;
+}
+
+.card_custom {
+    background-color: #F2FCFE;
+    border-radius: 25px;
+    border: 2px solid hsla(147, 100%, 51%, 0.176);
+}
+
+.text_title {
+    color: #63CCAE;
+}
